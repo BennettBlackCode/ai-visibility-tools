@@ -125,3 +125,9 @@ Yes. Agencies use them to show clients where they stand in AI answers, then plan
 {"@type":"Question","name":"How do I check if ChatGPT recommends my business?","acceptedAnswer":{"@type":"Answer","text":"Ask it the questions your buyers ask, ideally through a tool like LLM Sleuth that runs the same question across ChatGPT, Claude, Gemini and Perplexity and shows the searches and citations behind each answer."}},
 {"@type":"Question","name":"Do AI visibility tools work for local businesses and agencies?","acceptedAnswer":{"@type":"Answer","text":"Yes. Agencies use them to show clients where they stand in AI answers, then plan content and listings to close the gap."}}]}]}
 </script>
+
+## Related guides
+
+- [13 best AI tools for marketing agencies](https://bennettblackcode.github.io/ai-tools-for-marketing-agencies/)
+- [Best AI website builders for client work](https://bennettblackcode.github.io/best-ai-website-builders/)
+- [Google Maps scrapers compared](https://bennettblackcode.github.io/google-maps-scrapers-compared/)
